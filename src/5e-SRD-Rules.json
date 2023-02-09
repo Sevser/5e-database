@@ -106,6 +106,21 @@
         "url": "/api/rule-sections/the-environment"
       },
       {
+        "name": "Traps",
+        "index": "traps",
+        "url": "/api/rule-sections/traps"
+      },
+      {
+        "name": "Diseases",
+        "index": "diseases",
+        "url": "/api/rule-sections/diseases"
+      },
+      {
+        "name": "Madness",
+        "index": "madness",
+        "url": "/api/rule-sections/madness"
+      },
+      {
         "name": "Resting",
         "index": "resting",
         "url": "/api/rule-sections/resting"
@@ -157,6 +172,21 @@
         "url": "/api/rule-sections/poisons"
       },
       {
+        "name": "Attunement",
+        "index": "attunement",
+        "url": "/api/rule-sections/attunement"
+      },
+      {
+        "name": "Wearing and Wielding Items",
+        "index": "wearing-and-wielding-items",
+        "url": "/api/rule-sections/wearing-and-wielding-items"
+      },
+      {
+        "name": "Activating an Item",
+        "index": "activating-an-item",
+        "url": "/api/rule-sections/activating-an-item"
+      },
+      {
         "name": "Sentient Magic Items",
         "index": "sentient-magic-items",
         "url": "/api/rule-sections/sentient-magic-items"
@@ -178,21 +208,6 @@
         "name": "The Planes of Existence",
         "index": "the-planes-of-existence",
         "url": "/api/rule-sections/the-planes-of-existence"
-      },
-      {
-        "name": "Traps",
-        "index": "traps",
-        "url": "/api/rule-sections/traps"
-      },
-      {
-        "name": "Diseases",
-        "index": "diseases",
-        "url": "/api/rule-sections/diseases"
-      },
-      {
-        "name": "Madness",
-        "index": "madness",
-        "url": "/api/rule-sections/madness"
       }
     ],
     "url": "/api/rules/appendix"
